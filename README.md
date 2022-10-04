@@ -1,2 +1,2 @@
 # ExploratoryDataAnalysisReport
-This is an exploratory data analysis report using python.
+This is a repository for all exploratory data analysis reports using python.
